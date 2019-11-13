@@ -1,0 +1,23 @@
+DROP TABLE IF EXISTS Contact;
+CREATE TABLE Contact(id INTEGER(64) PRIMARY KEY NOT NULL , name VARCHAR(256));
+
+INSERT INTO Contact VALUES (1,'Nemo');
+INSERT INTO Contact VALUES (2,'Is');
+INSERT INTO Contact VALUES (3,'Good');
+INSERT INTO Contact VALUES (4,'Fish');
+INSERT INTO Contact VALUES (5,'but');
+INSERT INTO Contact VALUES (6,'When');
+INSERT INTO Contact VALUES (7,'I');
+INSERT INTO Contact VALUES (8,'i');
+INSERT INTO Contact VALUES (9,'I');
+INSERT INTO Contact VALUES (10,'I');
+INSERT INTO Contact VALUES (11,'am');
+INSERT INTO Contact VALUES (12,'Hungry');
+INSERT INTO Contact VALUES (13,'Andriy');
+INSERT INTO Contact VALUES (14,'The');
+INSERT INTO Contact VALUES (15,'Best');
+INSERT INTO Contact VALUES (16,'Programmer');
+INSERT INTO Contact VALUES (17,'End');
+INSERT INTO Contact VALUES (18,'very');
+INSERT INTO Contact VALUES (19,'Happy');
+INSERT INTO Contact VALUES (20,'Goodbye');
